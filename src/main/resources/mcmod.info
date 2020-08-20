@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "datfactionsdynmap",
+    "name": "Datfactions dynmap Integration",
+    "description": "A mod to add dynmap integration to Dat Factions",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "jtljac"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
